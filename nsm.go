@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"unsafe"
 
+	"github.com/0xsequence/nsm/ioc"
+	"github.com/0xsequence/nsm/request"
+	"github.com/0xsequence/nsm/response"
 	"github.com/fxamacker/cbor/v2"
-	"github.com/hf/nsm/ioc"
-	"github.com/hf/nsm/request"
-	"github.com/hf/nsm/response"
 )
 
 const (

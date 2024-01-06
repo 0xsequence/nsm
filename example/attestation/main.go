@@ -4,8 +4,8 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"github.com/hf/nsm"
-	"github.com/hf/nsm/request"
+	"github.com/0xsequence/nsm"
+	"github.com/0xsequence/nsm/request"
 	"time"
 )
 
